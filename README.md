@@ -1,3 +1,30 @@
+# Final Second Round Project - React Chatboard
+
+## About
+This project is developed using React.js as part of the final second round assignment. It is a chatboard application that demonstrates my understanding of component-based architecture and frontend development using React.
+
+## Features
+- Interactive chat interface
+- Reusable React components
+- Clean and simple UI
+- Smooth user interaction
+
+## Technologies Used
+- React.js
+
+## How to Run
+1. Clone or download the repository
+2. Install dependencies:
+   npm install
+3. Start the project:
+   npm start
+
+## Author
+Renuka Kulkarni
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
